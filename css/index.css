@@ -1,0 +1,143 @@
+body{
+
+    background-color: #202125;
+    font-family: 'century gothic';
+    color: #fff;
+}
+.top{
+    position: relative;
+    margin-top: 30px;
+}.right{
+    float: right;
+    margin-right: 4.5%;
+}
+.img-menu >img{
+    float: left;
+    overflow: hidden;
+    margin-left: 2%;
+    padding: 5px 0 0 0px;
+}
+.nav-link{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+    margin: 0 0 0 0;
+}
+.nav-ul{
+    margin-top: -1px;
+    text-align: center;
+    z-index: 3px;
+    float: left;
+    background-color: transparent;
+    list-style: none;
+}
+.nav-ul a {
+    margin: 1px;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+.main-menu{
+    padding: 100px 0 0 0;
+    margin-left: 0%;
+    overflow: hidden;
+    position: relative;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0 0 0 5;
+}
+nav ul li{
+    overflow: none;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    z-index: 3;
+    float: left;
+    background-color: transparent;
+    list-style: none;
+}
+.main{
+    margin: 13px 0 0 0;
+    font-family: 'century gothic';
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+input[type="text"]{
+    position: relative;
+    margin: 0 0 0 32%;
+    background-color: #202125;
+    color: #fff;
+
+    width: 20rem;
+    height: 2.5em;
+    
+    border: 0.5px 0.5px #fff;
+    border-color: #fff;
+    border-radius: 15px;
+}
+p{
+    margin: 10 0 0 16%;
+    text-align: center;
+}
+
+.ulLang{
+    list-style: none;
+    margin: 0 0 0 41%;
+    padding: 0;
+}
+.ulLang li{
+    float: left;
+    margin-right: 0.6em;
+    color: #7394C9;
+}
+
+.olClass{
+    list-style: none;
+    margin: 0 0 0 36.5%;
+    padding: 0;
+}
+.olClass li{
+    float: left;
+    margin-right: 1.6em;
+    text-align: center;
+}
+.olClass2{
+    list-style: none;
+    margin: 2.5% 0 0 40.5%;
+    padding: 0;
+}
+.olClass2 li{
+    float: left;
+    margin-right: 1.6em;
+    text-align: center;
+}
+.olclass3{
+    list-style: none;
+    margin: 5% 0 0 39%;
+    padding: 0;
+}
+.olclass3 li{
+    float: left;
+    margin-right: 1.6em;
+    text-align: center;
+}
+.wrapper{
+    width: 1100px;
+    max-width: 90%;
+    margin: 0 auto;
+}
+.footer{
+    background-color: #171717;
+    height: 200px;
+}
+.footer{
+    margin:5% 0 0 6%;
+}
+.main-class{
+    width: 1100px;
+    max-width: 1000%;
+    background-color: antiquewhite;
+}
